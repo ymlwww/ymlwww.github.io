@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a second-year Phd student in CSE department at Pennsylvania State University advised by [Prof. Tom La Porta](http://www.cse.psu.edu/~tfl12/). My current research interest lies in ML and SDN security. I obtained my B.S. degree in Computer Science and Technology Department at Tsinghua University in 2018 and M.S. degree in CSE department at Pennsylvania State University in 2020. Here is my [CV](https://ymlwww.github.io/files/CV.pdf).
+I'm a second-year Phd student in CSE department at Pennsylvania State University advised by [Prof. Tom La Porta](http://www.cse.psu.edu/~tfl12/). My current research interest lies in ML and SDN security. I obtained my B.S. degree in Computer Science and Technology Department at Tsinghua University in 2018 and M.S. degree in CSE department at Pennsylvania State University in 2020. Here is my [CV](https://ymlwww.github.io/files/CV.pdf). My email is mxy309 at psu dot edu.
 
 
 Publications 
