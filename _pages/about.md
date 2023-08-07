@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a third-year Phd student in CSE department at Pennsylvania State University advised by [Prof. Tom La Porta](http://www.cse.psu.edu/~tfl12/). My current research interest lies in ML and network resource allocation. I obtained my B.S. degree in Computer Science and Technology Department at Tsinghua University in 2018 and M.S. degree in CSE department at Pennsylvania State University in 2020. Here is my [CV](https://ymlwww.github.io/files/CV.pdf). My email is mxy309 at psu dot edu. I worked in Nokia Bell labs as summer research intern in 2022.
+I'm a four-year Phd student in CSE department at Pennsylvania State University advised by [Prof. Tom La Porta](http://www.cse.psu.edu/~tfl12/). My current research interest lies in ML and network resource allocation. I obtained my B.S. degree in Computer Science and Technology Department at Tsinghua University in 2018 and M.S. degree in CSE department at Pennsylvania State University in 2020. Here is my [CV](https://ymlwww.github.io/files/CV.pdf). My email is mxy309 at psu dot edu. I worked in Nokia Bell labs as summer research intern in 2022.
 
 
 Publications 
@@ -22,3 +22,4 @@ Publications
 6. <b>Mingli Yu</b>, Tian Xie, Ting He, Patrick McDaniel, Quinn K Burke. Flow Table Security in SDN: Adversarial Reconnaissance and Intelligent Attacks. <i>IEEE/ACM Transactions on Networking</i> <b>(TON)</b>, 2021
 7. Tongan Cai, Haomiao Ni, <b>Mingli Yu</b>, Xiaolei Huang, Kelvin K. Wong, John Volpi, James Z. Wang, Stephen T. C. Wong. DeepStroke: An Efficient Stroke Screening Framework for Emergency Rooms with Multimodal Adversarial Deep Learning. <i> Medical Image Analysis</i>, 2022
 8. Quinn Burke, Patrick McDaniel, Thomas La Porta, <b>Mingli Yu</b>, Ting He. Misreporting Attacks Against Load Balancers in Software-Defined Networking. <i> Mobile Networks and Applications</i> <b>(MONET)</b>, 2022
+9. <b>Mingli Yu</b>, Quinn Burke, Thomas La Porta, Patrick McDaniel. mMLSnet: Multilevel Security Network With Mobility <i> IEEE Military Communications Conference</i> <b>(MILCOM)</b>, 2023, <b>To appear</b>
