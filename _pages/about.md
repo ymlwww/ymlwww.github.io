@@ -24,4 +24,5 @@ Publications
 8. Quinn Burke, Patrick McDaniel, Thomas La Porta, <b>Mingli Yu</b>, Ting He. Misreporting Attacks Against Load Balancers in Software-Defined Networking. <i> Mobile Networks and Applications</i> <b>(MONET)</b>, 2022
 9. <b>Mingli Yu</b>, Quinn Burke, Thomas La Porta, Patrick McDaniel. mMLSnet: Multilevel Security Network With Mobility. <i> IEEE Military Communications Conference</i> <b>(MILCOM)</b>, 2023
 10. <b>Mingli Yu</b>, Quinn K Burke, Thomas La Porta, Patrick McDaniel. Stealthy Misreporting Attacks Against Load Balancing. <i>IEEE/ACM Transactions on Networking</i> <b>(TON)</b>, 2024
-11. <b>Mingli Yu</b>, Thomas La Porta, Murali Kodialam, T. V Lakshman. Revisiting network link weight assignment with deep reinforcement learning. (in submission for INFOCOM 2025)
+11. Quinn Burke, Yohan Beugin, Blaine Hoak, Rachel King, Eric Pauley, Ryan Sheatsley, <b>Mingli Yu</b>, Ting He, Thomas La Porta, Patrick McDaniel. Securing Cloud File Systems with Trusted Execution. <i>IEEE Transactions on Dependable and Secure Computing</i> <b>(TDSC)</b>, 2024
+12. <b>Mingli Yu</b>, Thomas La Porta, Murali Kodialam, T. V Lakshman. Revisiting network link weight assignment with deep reinforcement learning. (in submission for <b>(INFOCOM)</b> 2025)
